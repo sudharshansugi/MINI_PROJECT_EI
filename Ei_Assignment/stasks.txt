@@ -1,0 +1,4 @@
+sing,13:30,12:30,Low
+speak,13:30,17:30,Low
+prepare,13:30,17:30,Low
+dinner,21:30,22:30,Low

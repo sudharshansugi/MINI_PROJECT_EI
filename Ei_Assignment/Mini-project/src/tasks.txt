@@ -1,0 +1,15 @@
+sleep,00:00,06:00,High
+getready,06:00,07:00,Medium
+runsleep,09:15,10:15,Low
+sing,13:30,12:30,Low
+sing,13:30,12:30,Low
+speak,13:30,17:30,Low
+sing,13:30,12:30,Low
+speak,13:30,17:30,Low
+prepare,13:30,17:30,Low
+wake,16:00,18:00,Low
+pray,19:00,19:30,High
+sing,13:30,12:30,Low
+speak,13:30,17:30,Low
+prepare,13:30,17:30,Low
+dinner,21:30,22:30,Low
